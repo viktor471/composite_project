@@ -1,0 +1,6 @@
+**/*.o
+**/Makefile
+**/.qmake.stash
+**/*.swap
+**/*.pro.user*
+executives
